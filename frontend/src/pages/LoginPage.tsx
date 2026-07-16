@@ -67,9 +67,6 @@ export function LoginPage() {
             </span>
           </div>
         </div>
-        <div className="auth-trust">
-          <ShieldCheck />
-        </div>
       </section>
       <section className="auth-panel auth-form-panel">
         <div className="auth-form-wrap">
