@@ -5,7 +5,6 @@ import {
   Eye,
   EyeOff,
   ShieldCheck,
-  Sparkles,
 } from "lucide-react";
 import { FormEvent, useState } from "react";
 import { Link, Navigate, useLocation, useNavigate } from "react-router-dom";
